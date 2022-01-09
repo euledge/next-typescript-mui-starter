@@ -8,7 +8,8 @@
   ],
   "plugins": [
     "@typescript-eslint",
-    "unused-imports"
+    "unused-imports",
+    "@emotion"
   ],
   "rules": {
     "no-shadow": "error", // refs: https://eslint.org/docs/rules/no-shadow
@@ -41,6 +42,6 @@
         },
         "newlines-between": "always"
       }
-    ]
+    ],
   }
 }
