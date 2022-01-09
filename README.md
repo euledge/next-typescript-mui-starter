@@ -5,9 +5,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
 
 ```bash
-npx create-next-app --example https://github.com/euledge/next-typescript-starter
+npx create-next-app --example https://github.com/euledge/next-typescript-mui-starter
 # or
-yarn create next-app --example https://github.com/euledge/next-typescript-starter
+yarn create next-app --example https://github.com/euledge/next-typescript-mui-starter
 ```
 
 ## Getting Started
