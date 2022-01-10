@@ -1,0 +1,9 @@
+// .vscode/extensions.json
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "steoates.autoimport",
+        "dsznajder.es7-react-js-snippets"
+    ]
+}
