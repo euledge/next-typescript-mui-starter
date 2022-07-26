@@ -1,10 +1,13 @@
-import type { NextPage } from 'next';
+import { AppBar, Toolbar, Typography } from '@mui/material';
+import { css } from '@mui/styled-engine';
+import { styled } from '@mui/system';
 import Head from 'next/head';
 import Image from 'next/image';
+
+import type { NextPage } from 'next';
+
 import styles from 'styles/Home.module.css';
-import { styled } from '@mui/system';
-import { css } from '@mui/styled-engine';
-import { AppBar, Toolbar, Typography } from '@mui/material';
+
 
 const RedColor = css({
   color: 'red',
